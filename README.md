@@ -1,4 +1,4 @@
-# PINBALL WORLD!!!
+# Wendy's PINBALL WORLD!!!
 ![Screenshot of finished project](./images/finished-project.png "Finished project!")
 
 You've decided to become a pinball wizard! Having made it through Phase 1 at Flatiron School, you've decided to create a web app for yourself that will save your high score for the machines at your local pinball bar (yes, they exist).
